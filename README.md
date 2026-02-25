@@ -1,5 +1,7 @@
 # 📚 Library Management API
 
+## IN CASE OF SOMETHING IS WRONG, FEEL FREE TO SEND A EMAIL.
+
 Simple REST API built with ASP.NET Core to simulate a small library system.
 
 ---
